@@ -1,11 +1,11 @@
 {
     "name": "@mkotsur/prapor-widget",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Ukrainian flag on top of your web page.",
     "main": "dist/widget.min.js",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/mkotsur/prapor-widget.git"
+        "type": "git",
+        "url": "https://github.com/mkotsur/prapor-widget.git"
     },
     "scripts": {
         "build": "cross-env NODE_ENV=production webpack",
