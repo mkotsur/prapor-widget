@@ -1,0 +1,18 @@
+div.prapor {
+    font-size: 50%;
+    width: 100%;
+    text-align: center;
+    font-weight: 800;
+}
+
+div.prapor > div.yellow {
+    height: 1.4em;
+    color: black;
+    background-color: #ffd700;
+}
+
+div.prapor > div.blue {
+    height: 1.4em;
+    color: white;
+    background-color: #0057b7;
+}
