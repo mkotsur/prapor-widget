@@ -2,7 +2,7 @@
 
 The flag of Ukraine (Ukrainian: Прапор України, romanized: Prapor Ukrainy) consists of equally sized horizontal bands of blue and yellow. The combination of blue and yellow as a symbol of Ukraine comes from the flag of the Kingdom of Galicia–Volhynia used in the 12th century.
 
-<img width="600" src="./img/demo.jpg" alt="Widget on your page" title="Containers topology" />
+<img width="800" src="./img/demo.jpg" alt="Widget on your page" title="Containers topology" />
 
 Add a banner to your web page and publicly show support and recognition to the people of Ukraine: millions of refugees, hundreds of thousands of military personnel, thousands injured and killed.
 
