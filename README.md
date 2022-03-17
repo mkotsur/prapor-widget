@@ -11,13 +11,13 @@ Add a banner to your web page and publicly show support and recognition to the p
 Add this code to the HTML code of your web page(s). If you need help or something doesn't work - let me know!
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.2/dist/widget.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.4/dist/widget.min.js"></script>
 ```
 
 ## Can I change the wording?
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.2/dist/widget.min.js" data-blue-text="PUTIN" data-yellow-text="KHUILO"></script>
+<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.4/dist/widget.min.js" data-blue-text="PUTIN" data-yellow-text="KHUILO"></script>
 ```
 
 ## Can I remove the wording?
@@ -25,7 +25,7 @@ Add this code to the HTML code of your web page(s). If you need help or somethin
 You can have only the flag without any words.
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.2/dist/widget.min.js" data-blue-text="" data-yellow-text=""></script>
+<script src="https://cdn.jsdelivr.net/npm/@mkotsur/prapor-widget@0.0.4/dist/widget.min.js" data-blue-text="" data-yellow-text=""></script>
 ```
 
 ## More widgets

@@ -1,6 +1,6 @@
 {
     "name": "@mkotsur/prapor-widget",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Ukrainian flag on top of your web page.",
     "main": "dist/widget.min.js",
     "repository": {
